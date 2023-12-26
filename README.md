@@ -48,7 +48,8 @@ It shows the distance of a random variable from its mean. It is calcualted as
 ![image](https://user-images.githubusercontent.com/103921593/229993174-5b67e57e-3e01-4ac4-9f83-410a932b22bf.png)
 
 # Program :
-![saji](https://github.com/Sajetha13/Mean-and-Variance/assets/138849316/d89c5c6b-3650-4cb8-b01a-9714952a5460)
+![pr name](https://github.com/Ravi-1105/Mean-and-Variance/assets/139841688/3da82421-5b39-40c3-8ab1-95f87345c12d)
+
 ```
 import numpy as np
 L = [int(i) for i in input().split()]
